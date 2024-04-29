@@ -1,16 +1,18 @@
-### Hi there 👋
+### Sejam bem vindos ao perfil do predestinado🥇
 
-<!--
-**DAVI021RM/DAVI021RM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu Nome é Davi Rodrigues🧑.
 
-Here are some ideas to get you started:
+estou utilizando[Alura](https://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Estou me Desenvolvendo em GAMES.
+
+utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
+
+## meios de entrar em contato comigo📧
+
+00001104378139SP@al.eucacao.sp.gov.br
+
+@021_dl.davi
+
+![image](https://github.com/DAVI021RM/DAVI021RM/assets/168481334/de30f5f4-8892-40b6-9f58-cfb095cff4de)
